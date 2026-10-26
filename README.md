@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zenith Hosting is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zenith.hosting/
+Zenith Hosting provides a one‑click managed app hosting platform that lets users deploy a wide range of open‑source and commercial applications with minimal configuration. The service offers a catalog of apps, automated provisioning, SSL, DNS, and persistent storage, targeting both individual users and enterprises. Pricing is tiered per deployment, and the platform includes developer tools for publishing and managing apps. Zenith Hosting emphasizes simplicity, reliability, and integration with Stripe for billing, aiming for 99.9% uptime.
+
+**Areas:** Company · Hosting · Cloud · SaaS · Apps
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zenith.hosting/)
+- [Documentation](https://zenith.hosting/developers)
+- [Getting started](https://zenith.hosting/developers)
+- [Pricing](https://zenith.hosting/pricing.md)
+- [Support](https://zenith.hosting/security)
+- [Security](https://zenith.hosting/security)
+- [Terms of service](https://zenith.hosting/terms)
+- [Privacy policy](https://zenith.hosting/privacy)
+- [GitHub](https://github.com/zenith-hosting)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zenith-hosting/](https://apis.io/providers/zenith-hosting/).
